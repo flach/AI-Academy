@@ -1,0 +1,1 @@
+pandoc -t html -f markdown_github -o index.html index.md
