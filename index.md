@@ -1,3 +1,10 @@
+---
+layout: page
+title: About Simply Logical
+use-site-title: true
+---
+
+
 Artificial Intelligence is here... is your business ready?
 ========================================================
 
