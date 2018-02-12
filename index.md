@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Simply Logical
+title: AI Academy
 use-site-title: true
 ---
 
