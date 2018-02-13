@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Academy</title>
+    <description>We provide training to help you identify the AI opportunities in your organisation today and get started exploiting them tomorrow.</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>We are applying to GSoC 2018</title>
+        <description>
+          
+          This year we are applying to Google Summer of Code to invite students from around the world to help us with development. Our projects list is available here. We will let you know the outcome as soon as it’s in. Our goals Our projects aim to enhance online educational resources...
+        </description>
+        <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/2018-01-19-GSoC-2018-projects/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018-01-19-GSoC-2018-projects/</guid>
+      </item>
+    
+      <item>
+        <title>GitHub hosting</title>
+        <description>
+          
+          We’ve just starter transferring all of our resources to our GitHub organisation. You can find there source code for this website and Simply Logical textbook, among others. We also use GitHub Pages to host our websites.
+
+        </description>
+        <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/2018-01-17-github-hosting/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018-01-17-github-hosting/</guid>
+      </item>
+    
+      <item>
+        <title>Use case</title>
+        <description>
+          Interactive Simply Logical textbook used to teach undergraduate course - 
+          This term our interactive Simply Logical textbook is being used to teach 3rd year undergraduate unit on Artificial Intelligence and Logic Programming at the University of Bristol.
+
+If you’re using any of our materials and would like to be featured on our blog let us know!
+
+        </description>
+        <pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/2017-01-23-the-book-in-use/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2017-01-23-the-book-in-use/</guid>
+      </item>
+    
+      <item>
+        <title>We just got our own domain</title>
+        <description>
+          simply-logical.space - 
+          We just got our very own domain: Simply-Logical.space. We will use it to collect a number of educational materials on Artificial Intelligence and Logic Programming with Prolog under umbrella name: Simply Logical.
+
+If you would like to contribute something, look no further than here.
+
+        </description>
+        <pubDate>Thu, 29 Dec 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/blog/2016-12-29-new-domain/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2016-12-29-new-domain/</guid>
+      </item>
+    
+      <item>
+        <title>Interactive Simply Logical textbook</title>
+        <description>
+          
+          Online edition of “Simply Logical: Intelligent Reasoning by Example” is live. Furthermore, you don’t have to install SWI-Prolog locally on your machine to enjoy the code examples. The online edition has been enhanced with interactive Prolog code blocks, based on SWISH, so you can execute them directly in your web...
+        </description>
+        <pubDate>Wed, 14 Oct 2015 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/2015-10-14-simply-logical-online/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015-10-14-simply-logical-online/</guid>
+      </item>
+    
+      <item>
+        <title>Welcome to our new website</title>
+        <description>
+          
+          Our organisation just got a brand new website. Feel free to look around and remember to let us know if there is something that we can do better.
+
+Hope you enjoy it.
+
+        </description>
+        <pubDate>Sat, 01 Aug 2015 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/blog/2015-08-01-new-website/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2015-08-01-new-website/</guid>
+      </item>
+    
+  </channel>
+</rss>
