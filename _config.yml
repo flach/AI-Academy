@@ -9,7 +9,7 @@ baseurl: ""
 title: AI Academy
 
 # Short description of your site
-description: We provide training to help you identify the AI opportunities in your organisation today and get started exploiting them tomorrow.
+description: We provide training to help you identify the AI opportunities in your organisation today and start exploiting them tomorrow.
 
 # Links
 bookURL: "http://book.simply-logical.space/"
@@ -71,7 +71,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "contact@ai-academy.eu"
+  email: "Peter.Flach@gmail.com"
 #  facebook: daattali
 #  gitter: ai-academy
 #  github: ai-academy
